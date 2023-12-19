@@ -1,4 +1,4 @@
-# React + Vite
+# Click on the link below to see the project. 
 
 <h1>https://password-generater-sigma.vercel.app/</h1>
 
